@@ -4,7 +4,7 @@
 [![Website](https://img.shields.io/website?label=icodeinpython.com&style=for-the-badge&url=https%3A%2F%2Ficodeinpython.com)](http:/icodeinpython.com)
 [![Instagram Follow](https://img.shields.io/Instagram/follow/icodeinpython?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.instagram.com/_icodeinpython/)
 
-## I'm a Student, Developer, and Tech Enthusiast, Open Source Enthusiast!!
+## I'm a Student, Developer, Tech Enthusiast and Open Source Enthusiast!!
 Hello there this is Md Farhan Jeelani. A Computer Science Undergrad student, Developer, You can see my work down below. I love to code in Python (Currently an intermediate in Python😅). I am a friendly guy you can connect me on social media.
 - 🔭 I just launched my first e-learning platform: [icodeinpython.com!][course, projects, online editor , e-books]!
 - 🌱 I’m currently learning everything 🤣
