@@ -2,7 +2,7 @@
 
 
 [![Website](https://img.shields.io/website?label=icodeinpython.com&style=for-the-badge&url=https%3A%2F%2Ficodeinpython.com)](http:/icodeinpython.com)
-[![Instagram Follow](https://img.shields.io/Instagram/follow/icodeinpython?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.instagram.com/_icodeinpython/)
+[![Instagram Follow](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3AInstagram_logo_2016.svg&psig=AOvVaw0irz23nXif76xKmZHg0uXx&ust=1604229497643000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCK8t_a3uwCFQAAAAAdAAAAABAD)](https://www.instagram.com/_icodeinpython/)
 
 ## I'm a Student, Developer, Tech Enthusiast and Open Source Enthusiast!!
 Hello there this is Md Farhan Jeelani. A Computer Science Undergrad student, Developer, You can see my work down below. I love to code in Python (Currently an intermediate in Python😅). I am a friendly guy you can connect me on social media.
