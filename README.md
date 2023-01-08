@@ -4,16 +4,14 @@
 [![Website](https://img.shields.io/website?label=icodeinpython.com&style=for-the-badge&url=https%3A%2F%2Ficodeinpython.com)](http:/icodeinpython.com)
 
 ## I'm Data Analyst, Tech Enthusiast and Open Source Enthusiast!!
-Hello there this is Md Farhan Jeelani. A Data AnaLyst, Developer, You can see my work down below. I love to code in Python (Currently an intermediate in Python😅). I am a friendly guy you can connect me on social media.
+Hello there this is Md Farhan Jeelani. A Data AnaLyst & Power BI Developer, You can see my work down below. I love to code in Python . I am a friendly guy you can connect me on social media.
 - 🔭 I just launched my first e-learning platform: [icodeinpython.com!][course, projects, online editor , e-books]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to share knowledge and do automation works (IOT).
 
-### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw)
 
 ### Connect with me:
 
